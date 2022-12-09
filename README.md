@@ -18,10 +18,7 @@ This project is a frontend web application that allows users to interact with an
 - User can login and log out of their respective accounts
 
 
-# Link to backend repo :back: :link:
- 
- 
- [Link](https://github.com/Denis4pf/Grocery-Backend)
+# Link to backend repo :back: :link: [Link](https://github.com/Denis4pf/Grocery-Backend)
  
  ```
 ## Features :sparkling_heart: :sparkles:
