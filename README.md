@@ -3,7 +3,11 @@
 
 # Welcome to my Frontend Project :blush:
 
+
+
 This project is a frontend web application that allows users to interact with an API and view the data in a user-friendly way.
+
+# Link to my deployed Grocery App [Grocery-online-app](https://online-grocery-store.onrender.com)
 
 ### Mvp :m: :v: 
 
