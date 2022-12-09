@@ -19,9 +19,9 @@ This project is a frontend web application that allows users to interact with an
 
 
 # Link to backend repo :back: :link:
- ```
  
- https://github.com/Denis4pf/Grocery-Backend
+ 
+ [Link](https://github.com/Denis4pf/Grocery-Backend)
  
  ```
 ## Features :sparkling_heart: :sparkles:
@@ -96,9 +96,9 @@ SOFTWARE.
 ```
 
 # contact me via
-+[Contact me via my email](dennisonwonga155@gmail.com)
+[Contact me via my email](dennisonwonga155@gmail.com)
 
 
-+[Link to bakend repository](https://github.com/Denis4pf/Grocery-Backend)
+[Link to bakend repository](https://github.com/Denis4pf/Grocery-Backend)
 
 
