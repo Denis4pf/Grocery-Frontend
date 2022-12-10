@@ -4,7 +4,7 @@ import { NavLink, useNavigate } from "react-router-dom";
  function Login({setUser}){
     const navigate = useNavigate()
     const[user,setUserData] = useState({email:"",password:""})
-    const [errors, setErrors] = useState([]);
+    const [setErrors] = useState([]);
 
      // Keep track of the changes made to the form 
      function handleChanges(e) {

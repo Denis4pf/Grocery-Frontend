@@ -3,7 +3,7 @@ import {NavLink, useNavigate} from 'react-router-dom'
 
 function SignUp({setUser}){
     const navigate = useNavigate()
-    const [errors, setErrors] = useState([]);
+    const [setErrors] = useState([]);
     const [user,setUserData] = useState({
         name: "",
         email:"",
