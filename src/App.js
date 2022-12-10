@@ -43,11 +43,11 @@ function App() {
 
   } 
 
-  // const filtered = groceries.filter((item)=>{
-   // if(user!==null){
-    //  return item.user_id===user.id
-  //  }
-  // })
+  const filtered = groceries.filter((item)=>{
+    if(user!==null){
+      return item.user_id===user.id
+    }
+  })
   //Add new product to the state
   function onAddNew(data){
     setGroceries([...groceries,data])
