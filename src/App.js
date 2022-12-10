@@ -47,7 +47,9 @@ function App() {
     if(user!==null){
       return item.user_id===user.id
     }
+    return true
   })
+
   //Add new product to the state
   function onAddNew(data){
     setGroceries([...groceries,data])
@@ -68,8 +70,6 @@ function App() {
     const filteredProducts = groceries.filter(item => item.id !== id)
     setGroceries(filteredProducts)
   }
-
-
 
   // Logout user
   function logoutUser(){
